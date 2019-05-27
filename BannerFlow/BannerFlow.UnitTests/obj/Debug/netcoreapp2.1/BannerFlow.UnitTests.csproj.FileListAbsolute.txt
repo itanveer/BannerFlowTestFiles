@@ -1,0 +1,17 @@
+C:\Users\TanveerAhmad\Downloads\00\BannerFlow\BannerFlow.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\TanveerAhmad\Downloads\00\BannerFlow\BannerFlow.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\TanveerAhmad\Downloads\00\BannerFlow\BannerFlow.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\TanveerAhmad\Downloads\00\BannerFlow\BannerFlow.UnitTests\bin\Debug\netcoreapp2.1\BannerFlow.UnitTests.deps.json
+C:\Users\TanveerAhmad\Downloads\00\BannerFlow\BannerFlow.UnitTests\bin\Debug\netcoreapp2.1\BannerFlow.UnitTests.runtimeconfig.json
+C:\Users\TanveerAhmad\Downloads\00\BannerFlow\BannerFlow.UnitTests\bin\Debug\netcoreapp2.1\BannerFlow.UnitTests.runtimeconfig.dev.json
+C:\Users\TanveerAhmad\Downloads\00\BannerFlow\BannerFlow.UnitTests\bin\Debug\netcoreapp2.1\BannerFlow.UnitTests.dll
+C:\Users\TanveerAhmad\Downloads\00\BannerFlow\BannerFlow.UnitTests\bin\Debug\netcoreapp2.1\BannerFlow.UnitTests.pdb
+C:\Users\TanveerAhmad\Downloads\00\BannerFlow\BannerFlow.UnitTests\obj\Debug\netcoreapp2.1\BannerFlow.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\TanveerAhmad\Downloads\00\BannerFlow\BannerFlow.UnitTests\obj\Debug\netcoreapp2.1\BannerFlow.UnitTests.AssemblyInfoInputs.cache
+C:\Users\TanveerAhmad\Downloads\00\BannerFlow\BannerFlow.UnitTests\obj\Debug\netcoreapp2.1\BannerFlow.UnitTests.AssemblyInfo.cs
+C:\Users\TanveerAhmad\Downloads\00\BannerFlow\BannerFlow.UnitTests\obj\Debug\netcoreapp2.1\BannerFlow.UnitTests.dll
+C:\Users\TanveerAhmad\Downloads\00\BannerFlow\BannerFlow.UnitTests\obj\Debug\netcoreapp2.1\BannerFlow.UnitTests.pdb
+C:\Users\TanveerAhmad\Downloads\00\BannerFlow\BannerFlow.UnitTests\obj\Debug\netcoreapp2.1\BannerFlow.UnitTests.csprojAssemblyReference.cache
+C:\Users\TanveerAhmad\Downloads\00\BannerFlow\BannerFlow.UnitTests\bin\Debug\netcoreapp2.1\BannerFlow.dll
+C:\Users\TanveerAhmad\Downloads\00\BannerFlow\BannerFlow.UnitTests\bin\Debug\netcoreapp2.1\BannerFlow.pdb
+C:\Users\TanveerAhmad\Downloads\00\BannerFlow\BannerFlow.UnitTests\obj\Debug\netcoreapp2.1\BannerFlow.UnitTests.csproj.CopyComplete
